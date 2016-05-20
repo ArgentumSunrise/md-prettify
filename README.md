@@ -1,2 +1,2 @@
 # md-prettify
-Markdown, prettified
+Markdown, prettified. Just download and run for beautiful results.
